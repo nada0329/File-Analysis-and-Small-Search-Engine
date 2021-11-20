@@ -23,3 +23,6 @@ The output is printed on screen
 - starting put_your_str_here: get the words that start with (what ever you want) and how many times
 - containing put_your_str_here: get the words that contain (what ever you want) and how many times
 - search put_your_str_here: find the string you searched for and in which line
+
+
+Note: ignore any commented line
