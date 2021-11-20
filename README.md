@@ -5,7 +5,7 @@ Analyzes a text file and returns information about its  content using Linked lis
 
     g++ main.cpp linked_list.cpp
   
-    a.exe name_of_your_target_text_file name_of_the_commands_text_file  (ex: a.exe Text1.txt commands.txt)
+    a.exe name_of_your_target_text_file name_of_the_commands_text_file  (ex: a.exe my_text.txt commands.txt)
  
   
 The first input is a text file which is the target file
