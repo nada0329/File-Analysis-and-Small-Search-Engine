@@ -13,7 +13,7 @@ the second input is a text file that contains the needed commands to be executed
 
 the output is printed on screen
 
-###the commands that code handdles:
+**the commands that code handdles:**
 - wordCount: the whole number of words in file
 - distWords: the number of distinct words only
 - charCount: the number of chars in the file
