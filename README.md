@@ -1,8 +1,8 @@
 # File-Analysis-and-Small-Search-Engine
-Analyzes a text file and returns information about its  content using Linked list
-###to run the code in cmd 
-####g++ a.cpp linked_list.cpp
-####a.exe name_of_your_target_text_file name_of_the_commands_text_file  (ex: a.exe Text1.txt commands.txt)
+Analyzes a text file and returns information about its  content using Linked list\
+To run the code in cmd 
+  g++ a.cpp linked_list.cpp
+  a.exe name_of_your_target_text_file name_of_the_commands_text_file  (ex: a.exe Text1.txt commands.txt)
 the first input is a text file which is the target file
 the second input is a text file that contains the needed commands to be executed 
 the output is printed on screen
