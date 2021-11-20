@@ -1,7 +1,7 @@
 # File-Analysis-and-Small-Search-Engine
 Analyzes a text file and returns information about its  content using Linked list
 
-To run the code in cmd 
+***To run the code in cmd ***
 
   g++ a.cpp linked_list.cpp
   
